@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
                     .setMessage(R.string.about_text) // Mensaje
                     .setPositiveButton(android.R.string.ok, (dialog, which) -> {
                         // Acción al hacer clic en "OK"
-                        dialog.dismiss(); // Cierra el diálogo
+                        dialog.dismiss(); // Cerrar el diálogo
                     })
                     .show();
             return true;

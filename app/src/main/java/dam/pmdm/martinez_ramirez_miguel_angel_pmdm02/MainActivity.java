@@ -19,6 +19,7 @@ import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.ActionBar;
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
@@ -40,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Carga el idioma guardado antes de establecer el contenido
+        // Cargar el idioma guardado antes de establecer el contenido
         SharedPreferences prefs = getSharedPreferences("AppPreferences", MODE_PRIVATE);
         boolean switchState = prefs.getBoolean("switch_state", false);
         String idioma = switchState ? "es" : "en";
@@ -72,13 +73,18 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    // Método para las acciones al hacer clic en las diferentes opciones al hacer clic en el menú
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == R.id.action_acerca_de) {
-            Toast.makeText(this,
-                    R.string.about_text,
-                    Toast.LENGTH_LONG
-            ).show();
+            new AlertDialog.Builder(this)
+                    .setTitle(R.string.about) // Título del Dialog
+                    .setMessage(R.string.about_text) // Mensaje
+                    .setPositiveButton(android.R.string.ok, (dialog, which) -> {
+                        // Acción al hacer clic en "OK"
+                        dialog.dismiss(); // Cierra el diálogo
+                    })
+                    .show();
             return true;
         }
         if (item.getItemId() == R.id.nav_home) {

@@ -1,0 +1,78 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">martinez_ramirez_miguel_angel_pmdm02</string>
+    <string name="character_list">List of Characters</string>
+    <string name="character_details">Details of Character</string>
+    <string name="character_name">Name of Character</string>
+    <string name="description">Description of Character</string>
+    <string name="skills">Skills of Character</string>
+    <string name="language">Language</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="about">About...</string>
+    <string name="languge_to_select">Español</string>
+    <string name="message">Press to change language:</string>
+    <string name="change_language">Change Language</string>
+    <string name="about_text">Application developed by Miguel Ángel Martínez Ramírez. Version 1.0.</string>
+    <string name="character_selected">The character that has been selected is </string>
+    <string name="bienvenida">Welcome to the world of Mario.</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_idioma">Change language to English</string>
+
+    <string name="mario_name">Mario</string>
+    <string name="mario_description">The main hero of the Mushroom Kingdom. Mario is very positive and always cheerful.</string>
+    <string name="mario_skills">Powerful jumping ability</string>
+
+    <string name="luigi_name">Luigi</string>
+    <string name="luigi_description">Mario\'s younger brother. He is tall, slim, and often timid, but always willing to help.</string>
+    <string name="luigi_skills">Ability to jump higher than Mario</string>
+
+    <string name="peach_name">Peach</string>
+    <string name="peach_description">The princess of the Mushroom Kingdom. She is always Bowser\'s target but is brave and capable of defending herself.</string>
+    <string name="peach_skills">Ability to float briefly in the air</string>
+
+    <string name="toad_name">Toad</string>
+    <string name="toad_description">A loyal servant of Princess Peach. He is small, cheerful, and always ready to help.</string>
+    <string name="toad_skills">High-speed ability</string>
+
+    <string name="bowser_name">Bowser</string>
+    <string name="bowser_description">The main antagonist of the series and king of the Koopas. He always tries to capture Princess Peach.</string>
+    <string name="bowser_skills">Great strength and fire-breathing ability</string>
+
+    <string name="yoshi_name">Yoshi</string>
+    <string name="yoshi_description">A loyal friend of Mario. He is a green dinosaur with special abilities like eating enemies and throwing eggs.</string>
+    <string name="yoshi_skills">Ability to perform a prolonged jump</string>
+
+    <string name="daisy_name">Daisy</string>
+    <string name="daisy_description">The princess of Sarasaland. She is a friend of Peach and has an energetic and brave personality.</string>
+    <string name="daisy_skills">Ability to float briefly in the air</string>
+
+    <string name="wario_name">Wario</string>
+    <string name="wario_description">A rival of Mario, known for his greed. He is strong and always seeks gold and wealth.</string>
+    <string name="wario_skills">Super strength ability</string>
+
+    <string name="waluigi_name">Waluigi</string>
+    <string name="waluigi_description">Luigi\'s companion and rival, known for his malicious and sneaky character.</string>
+    <string name="waluigi_skills">Ability to perform deceptive moves</string>
+
+    <string name="rosalina_name">Rosalina</string>
+    <string name="rosalina_description">The guardian of the cosmos, protector of stars and Lumas. She is wise and powerful.</string>
+    <string name="rosalina_skills">Ability to control gravity</string>
+
+    <string name="bowser_jr_name">Bowser Jr.</string>
+    <string name="bowser_jr_description">Bowser\'s son, who also tries to capture Princess Peach. He is clever and follows in his father\'s footsteps.</string>
+    <string name="bowser_jr_skills">Ability to use the magic brush</string>
+
+    <string name="boo_name">Boo</string>
+    <string name="boo_description">A shy and playful ghost. He is known for being easily frightened and often appears in dark places.</string>
+    <string name="boo_skills">Ability to become invisible</string>
+
+    <string name="donkey_kong_name">Donkey Kong</string>
+    <string name="donkey_kong_description">The powerful gorilla who is Mario\'s friend. He is strong and protective of his jungle home.</string>
+    <string name="donkey_kong_skills">Super strength and great resilience</string>
+
+    <string name="diddy_kong_name">Diddy Kong</string>
+    <string name="diddy_kong_description">Donkey Kong\'s nephew, agile and fast, always ready to help his family and friends.</string>
+    <string name="diddy_kong_skills">Ability to fly with his jetpack</string>
+
+</resources>

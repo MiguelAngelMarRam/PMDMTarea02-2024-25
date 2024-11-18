@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/characterListFragment">
+    <fragment
+        android:id="@+id/characterListFragment"
+        android:name="dam.pmdm.martinez_ramirez_miguel_angel_pmdm02.CharacterListFragment"
+        android:label="character_list_fragment"
+        tools:layout="@layout/character_list_fragment" />
+    <fragment
+        android:id="@+id/characterDetailFragment"
+        android:name="dam.pmdm.martinez_ramirez_miguel_angel_pmdm02.CharacterDetailFragment"
+        android:label="character_detail_fragment"
+        tools:layout="@layout/character_detail_fragment" />
+</navigation>

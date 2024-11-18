@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Martinez_ramirez_miguel_angel_pmdm02" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- SplashScreen -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/mario_splash</item>
+        <item name="android:windowSplashScreenAnimationDuration">2500</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/backgroundLogo</item>
+        <item name="android:windowSplashScreenBackground">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.Martinez_ramirez_miguel_angel_pmdm02" parent="Base.Theme.Martinez_ramirez_miguel_angel_pmdm02" />
+</resources>

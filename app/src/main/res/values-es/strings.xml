@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">martinez_ramirez_miguel_angel_pmdm02</string>
+    <string name="character_list">Lista de Personajes</string>
+    <string name="character_details">Detalles del Personaje</string>
+    <string name="character_name">Nombre del Personaje</string>
+    <string name="description">Descripción del Personaje</string>
+    <string name="skills">Características del Personaje</string>
+    <string name="language">Idioma</string>
+    <string name="settings">Ajustes</string>
+    <string name="home">Inicio</string>
+    <string name="about">Acerca de...</string>
+    <string name="languge_to_select">Inglés</string>
+    <string name="message">Pulse para cambiar el idioma</string>
+    <string name="change_language">Cambiar el idioma</string>
+    <string name="about_text">Aplicación desarrollada por Miguel Ángel Martínez Ramírez. Versión 1.0.</string>
+    <string name="character_selected">Se ha seleccionado el personaje </string>
+    <string name="bienvenida">Bienvenidos al mundo de Mario.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change_idioma">Cambio idioma a Español</string>
+
+    <string name="mario_name">Mario</string>
+    <string name="mario_description">El héroe principal del Reino Champiñón. Mario es muy positivo y siempre está alegre.</string>
+    <string name="mario_skills">Poderosa habilidad para saltar</string>
+
+    <string name="luigi_name">Luigi</string>
+    <string name="luigi_description">El hermano menor de Mario. Es alto, delgado y suele ser algo miedoso, pero siempre está dispuesto a ayudar.</string>
+    <string name="luigi_skills">Habilidad para saltar más alto que Mario</string>
+
+    <string name="peach_name">Peach</string>
+    <string name="peach_description">La princesa del Reino Champiñón. Siempre es el objetivo de Bowser, pero es valiente y capaz de defenderse.</string>
+    <string name="peach_skills">Habilidad para flotar brevemente en el aire</string>
+
+    <string name="toad_name">Toad</string>
+    <string name="toad_description">Un fiel sirviente de la princesa Peach. Es pequeño, alegre y siempre dispuesto a ayudar.</string>
+    <string name="toad_skills">Habilidad de alta velocidad</string>
+
+    <string name="bowser_name">Bowser</string>
+    <string name="bowser_description">El principal antagonista de la saga y el rey de los Koopas. Siempre intenta capturar a la princesa Peach.</string>
+    <string name="bowser_skills">Gran fuerza y habilidad para lanzar fuego</string>
+
+    <string name="yoshi_name">Yoshi</string>
+    <string name="yoshi_description">Un fiel amigo de Mario. Es un dinosaurio verde con habilidades especiales como comer enemigos y lanzar huevos.</string>
+    <string name="yoshi_skills">Habilidad para hacer un salto prolongado</string>
+
+    <string name="daisy_name">Daisy</string>
+    <string name="daisy_description">La princesa del Reino Sarasaland. Es amiga de Peach y tiene una personalidad enérgica y valiente.</string>
+    <string name="daisy_skills">Habilidad para flotar brevemente en el aire</string>
+
+    <string name="wario_name">Wario</string>
+    <string name="wario_description">Un rival de Mario, conocido por su codicia. Es fuerte y siempre busca el oro y la riqueza.</string>
+    <string name="wario_skills">Habilidad de súper fuerza</string>
+
+    <string name="waluigi_name">Waluigi</string>
+    <string name="waluigi_description">El compañero y rival de Luigi, conocido por su carácter malicioso y tramposo.</string>
+    <string name="waluigi_skills">Habilidad para hacer movimientos engañosos</string>
+
+    <string name="rosalina_name">Rosalina</string>
+    <string name="rosalina_description">La guardiana del cosmos, protectora de las estrellas y los Lumas. Es sabia y poderosa.</string>
+    <string name="rosalina_skills">Habilidad para controlar la gravedad</string>
+
+    <string name="bowser_jr_name">Bowser Jr.</string>
+    <string name="bowser_jr_description">El hijo de Bowser, que también intenta capturar a la princesa Peach. Es astuto y sigue los pasos de su padre.</string>
+    <string name="bowser_jr_skills">Habilidad para utilizar el pincel mágico</string>
+
+    <string name="boo_name">Boo</string>
+    <string name="boo_description">Un fantasma tímido y juguetón. Es conocido por ser asustadizo y suele aparecer en lugares oscuros.</string>
+    <string name="boo_skills">Habilidad para volverse invisible</string>
+
+    <string name="donkey_kong_name">Donkey Kong</string>
+    <string name="donkey_kong_description">El poderoso gorila que es amigo de Mario. Es fuerte y protector de su hogar en la jungla.</string>
+    <string name="donkey_kong_skills">Habilidad de súper fuerza y gran resistencia</string>
+
+    <string name="diddy_kong_name">Diddy Kong</string>
+    <string name="diddy_kong_description">El sobrino de Donkey Kong, ágil y rápido, siempre listo para ayudar a su familia y amigos.</string>
+    <string name="diddy_kong_skills">Habilidad para volar con su mochila propulsora</string>
+
+</resources>

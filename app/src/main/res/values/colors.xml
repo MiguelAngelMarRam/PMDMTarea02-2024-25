@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color> <!-- Azul para la Toolbar y el Fondo -->
+    <color name="colorPrimaryDark">#B22222</color> <!-- Rojo más oscuro -->
+    <color name="colorAccent">#007FFF</color> <!-- Azul para los acentos -->
+    <color name="toolbarTextColor">#FFFFFF</color> <!-- Blanco para el texto de la Toolbar -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Blanco para el fondo general -->
+    <color name="backgroundLogo">#00DC1E</color> <!-- Verde para el fondo del logo Splash -->
+</resources>
